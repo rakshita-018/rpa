@@ -1,2 +1,3 @@
-api key = QMKyET5228szDXGcvR9+/1RLQnBuiR2RmdtkIGVL1D7WVR8d96UIvGmYZfQzbyyXZZgMVtbI26F6b7CCv2C/pw==
-email app password = tfpzmjqexaxwimqc
+# .env
+OCR_API_KEY=QMKyET5228szDXGcvR9+/1RLQnBuiR2RmdtkIGVL1D7WVR8d96UIvGmYZfQzbyyXZZgMVtbI26F6b7CCv2C/pw==
+EMAIL_APP_PASSWORD=tfpzmjqexaxwimqc
